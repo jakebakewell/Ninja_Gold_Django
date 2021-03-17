@@ -1,0 +1,20 @@
+#log{
+    width: 75rem;
+    min-height: 20rem;
+    max-height: 20rem;
+    background-color: white;
+    border-radius: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    overflow: auto;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+a{
+    margin-right: 3rem;
+}
